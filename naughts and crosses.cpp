@@ -97,7 +97,7 @@ cout<<"O";
 cout<<" ";
 cout<<"|";
 }
-//
+///
 }
 //set 1 "O first"
 if (icr % 2 == 0) {
