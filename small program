@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+	
+	int function(){
+		int a;
+		for (a=0; a<=10;a++){
+				printf("values are %d\n",a);
+		
+		}
+	}
+	
+	function();
+	return 0;
+}
